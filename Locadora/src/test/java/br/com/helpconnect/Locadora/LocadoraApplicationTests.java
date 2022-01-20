@@ -1,10 +1,10 @@
-package br.com.helpconnect.MinhaListaDePedidos;
+package br.com.helpconnect.Locadora;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MinhaListaDePedidosApplicationTests {
+class LocadoraApplicationTests {
 
 	@Test
 	void contextLoads() {
